@@ -213,9 +213,9 @@ Compare key results obtained using different mesh resolutions to determine the s
 
 The heat transferred by each fluid stream can be estimated using:
 
-\[
-Q = \dot{m} C_p (T_{out}-T_{in})
-\]
+$$
+Q = \dot{m} C_p (T_{\text{out}} - T_{\text{in}})
+$$
 
 The heat lost by the hot stream should approximately correspond to the heat gained by the cold stream, subject to numerical error and any heat transfer through other boundaries.
 
